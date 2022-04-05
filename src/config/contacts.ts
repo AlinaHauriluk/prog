@@ -1,0 +1,1 @@
+export const coordinates = [35.1815784, -120.7474753];
